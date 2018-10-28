@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "quanlikho",
+    "packageName": "com.quangtv.quanlikho",
+    "packageFolder": "com/quangtv/quanlikho",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "vi",
+    "languages": [
+      "en",
+      "vi"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NjM5Mzg3OTI2NmE2OTViODYyMmUyOWJmODM5OTM0NjY2OGRlNjM5MDg1MDc0YWUwNzdmYzcyNjJjZDJhMjhmODhhYWFmNzViN2QzYzYwMmVjMmQzYWM5NjgzZmUzMWZmZWYzOWVjMmM0OWM1NWU0MjI5ZTc5Zjc2YjFlNzc0ZGQ="
+  },
+  "git-provider": "GitHub",
+  "git-company": "tranquang9a1",
+  "repository-name": "phucan-quanlikho"
+}
